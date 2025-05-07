@@ -63,5 +63,5 @@ This project is a **Minimum Viable Product (MVP)** for a Warehouse Management Sy
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/nourhammami/ywms.git
+
